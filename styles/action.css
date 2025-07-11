@@ -1,0 +1,16 @@
+.action-sec {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 141px;
+    margin-right: 159px;
+    padding: 50px;
+    max-height: 328px;
+    max-width: 1140px;
+}
+
+.action-img {
+    border-radius: 20px;
+    height: 328px;
+    width: auto;
+}
