@@ -1,0 +1,49 @@
+.git-sec {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 40px; */
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 93px;
+    /* background-color: red; */
+}
+
+
+.git-left {
+    width: 50%;
+}
+
+.git-title {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+
+.git-right {
+    width: 35%;
+}
+
+
+.git-form {
+    max-width: 497px;
+    max-height: 490px;
+}
+
+.git-form label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.git-form input,
+.git-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    font-size: 16px;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
