@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    background-color: #f5f8ff;
+}
+
+.btn-primary {
+    background-color: #4E47FF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.btn-primary:hover{
+    background-color: #efc512;
+}
